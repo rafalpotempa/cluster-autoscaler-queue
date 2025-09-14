@@ -1,0 +1,17 @@
+project:
+  type: default
+documentclass: article
+
+subtitle: "Queuing Theory"
+author:
+  - name: "Rafał Potempa"
+    affiliation: "Joint Doctoral School of Silesian University of Technology"
+
+format:
+  pdf:
+    geometry: margin=1in
+    number-sections: true
+    papersize: a4
+    titlepage: true
+    toc: true
+    toc-depth: 4
